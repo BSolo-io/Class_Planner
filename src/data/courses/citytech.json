@@ -1,0 +1,1667 @@
+{
+  "school": "New York City College of Technology (CUNY)",
+  "source": "PLACEHOLDER DATA - generated for front-end development, not the real City Tech catalog. The real scraper (server/scraper/) is blocked by the catalog site's bot protection; replace this once that's resolved. See handoff.md.",
+  "isPlaceholder": true,
+  "catalogYear": "2026-2027 (placeholder)",
+  "courses": [
+    {
+      "code": "ACC 1101",
+      "title": "Principles of Accounting I",
+      "credits": 4,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ACC 1201",
+      "title": "Principles of Accounting II",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "ACC 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": "C",
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ACC 2101",
+      "title": "Intermediate Accounting I",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "ACC 1201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": "C",
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ACC 2201",
+      "title": "Intermediate Accounting II",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "ACC 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ACC 3101",
+      "title": "Cost Accounting",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ACC 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ACC 3201",
+      "title": "Auditing",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ACC 2201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ACC 4101",
+      "title": "Advanced Accounting",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ACC 3101",
+          "ACC 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "ARCH 1101",
+      "title": "Architectural Drafting I",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ARCH 1201",
+      "title": "Architectural Drafting II",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ARCH 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ARCH 2101",
+      "title": "Building Materials and Methods",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ARCH 1201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ARCH 2201",
+      "title": "Structures I",
+      "credits": 3,
+      "prereqs": {
+        "any": [
+          "MEC 1201",
+          "MAT 1275"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ARCH 3101",
+      "title": "Architectural Design Studio I",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "ARCH 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ARCH 3201",
+      "title": "Building Systems",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ARCH 2201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ARCH 4101",
+      "title": "Architectural Design Capstone",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "ARCH 3101",
+          "ARCH 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "ART 1101",
+      "title": "Introduction to Visual Arts",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "BIO 1101",
+      "title": "Anatomy and Physiology I",
+      "credits": 4,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "BIO 1201",
+      "title": "Anatomy and Physiology II",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "BIO 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "BUS 1101",
+      "title": "Introduction to Business",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "BUS 2101",
+      "title": "Business Law I",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "BUS 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "BUS 2201",
+      "title": "Principles of Marketing",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "BUS 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "BUS 2301",
+      "title": "Principles of Management",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "BUS 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "BUS 3101",
+      "title": "Corporate Finance",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ACC 1201",
+          "ECO 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "BUS 3201",
+      "title": "Organizational Behavior",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "BUS 2301"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "BUS 4101",
+      "title": "Strategic Management Capstone",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "BUS 3101",
+          "BUS 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "CET 2201",
+      "title": "Microprocessors",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ELT 2101",
+          "CSCI 1111"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CHEM 1101",
+      "title": "General Chemistry I",
+      "credits": 4,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CHEM 1201",
+      "title": "General Chemistry II",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "CHEM 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CIS 1101",
+      "title": "Introduction to Computer Information Systems",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "COM 1330",
+      "title": "Speech: Oral Communication",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "COMD 1101",
+      "title": "Design Fundamentals I",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "COMD 1201",
+      "title": "Design Fundamentals II",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "COMD 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "COMD 2101",
+      "title": "Typography",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "COMD 1201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "COMD 2201",
+      "title": "Digital Imaging",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "COMD 1201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "COMD 3101",
+      "title": "Branding and Identity",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "COMD 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "COMD 3201",
+      "title": "Web Design",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "COMD 2201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "COMD 4101",
+      "title": "Portfolio and Capstone",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "COMD 3101",
+          "COMD 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "CON 1101",
+      "title": "Introduction to Construction Management",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CON 1201",
+      "title": "Construction Materials",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "CON 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CON 2101",
+      "title": "Construction Estimating",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "CON 1201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CON 2201",
+      "title": "Construction Scheduling",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "CON 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CON 3101",
+      "title": "Construction Law and Contracts",
+      "credits": 3,
+      "prereqs": {
+        "any": [
+          "BUS 2101",
+          "CON 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CON 3201",
+      "title": "Project Management",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "CON 2101",
+          "CON 2201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CON 4101",
+      "title": "Capstone Project",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "CON 3101",
+          "CON 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "CSCI 1111",
+      "title": "Computer Programming I",
+      "credits": 4,
+      "prereqs": null,
+      "coreqs": [
+        "MAT 1275"
+      ],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CSCI 2112",
+      "title": "Computer Programming II",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "CSCI 1111"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": "C",
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CSCI 2113",
+      "title": "Data Structures",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "CSCI 2112"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": "C",
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CSCI 3114",
+      "title": "Algorithms",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "CSCI 2113"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CSCI 3214",
+      "title": "Database Systems",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "CSCI 2113"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CSCI 3314",
+      "title": "Operating Systems",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "CSCI 2113",
+          "CST 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "CSCI 4998",
+      "title": "Senior Capstone",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "CSCI 3114"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "CST 1101",
+      "title": "Introduction to Computer Systems",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ECO 1101",
+      "title": "Principles of Economics",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ELT 1101",
+      "title": "Circuit Analysis I",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "MAT 1275"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ELT 2101",
+      "title": "Digital Logic Design",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "ELT 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ELT 3101",
+      "title": "Electric Circuits II",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "ELT 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ELT 3201",
+      "title": "Signals and Systems",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ELT 3101",
+          "MAT 1475"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ELT 4101",
+      "title": "Senior Project",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ELT 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "ENG 1101",
+      "title": "English Composition I",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ENG 1121",
+      "title": "English Composition II",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ENG 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ENVS 1101",
+      "title": "Introduction to Environmental Science",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ENVS 2101",
+      "title": "Ecology",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "BIO 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ENVS 3101",
+      "title": "Environmental Policy",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ENVS 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ENVS 3201",
+      "title": "Environmental Data Analysis",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ENVS 1101",
+          "MAT 1275"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "ENVS 4101",
+      "title": "Capstone Research",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "ENVS 2101",
+          "ENVS 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "HIM 1101",
+      "title": "Introduction to Health Informatics",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HIM 2101",
+      "title": "Health Data Standards",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HIM 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HIM 3101",
+      "title": "Clinical Database Systems",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HIM 2101",
+          "CSCI 1111"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HIM 3201",
+      "title": "Health Information Privacy and Security",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HIM 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HIM 4101",
+      "title": "Health Informatics Capstone",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HIM 3101",
+          "HIM 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "HIS 1101",
+      "title": "World History Since 1500",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HMGT 1101",
+      "title": "Introduction to Hospitality Management",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HMGT 1201",
+      "title": "Food and Beverage Operations",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HMGT 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HMGT 2101",
+      "title": "Lodging Operations",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HMGT 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HMGT 2201",
+      "title": "Hospitality Marketing",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HMGT 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HMGT 3101",
+      "title": "Event Planning",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HMGT 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HMGT 3201",
+      "title": "Hospitality Law",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HMGT 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "HMGT 4101",
+      "title": "Hospitality Strategic Management",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "HMGT 3101",
+          "HMGT 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "HUM 1101",
+      "title": "Introduction to the Humanities",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MAT 1275",
+      "title": "College Algebra and Trigonometry",
+      "credits": 4,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MAT 1475",
+      "title": "Calculus I",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "MAT 1275"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": "C",
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MAT 1575",
+      "title": "Calculus II",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "MAT 1475"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": "C",
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MAT 2440",
+      "title": "Discrete Mathematics",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MAT 1275"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MAT 2675",
+      "title": "Calculus III",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "MAT 1575"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MAT 2680",
+      "title": "Differential Equations",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MAT 1575"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MAT 3050",
+      "title": "Linear Algebra",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MAT 1575"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MAT 3200",
+      "title": "Probability and Statistics",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MAT 1575"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MAT 4900",
+      "title": "Mathematics Capstone",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MAT 3050",
+          "MAT 3200"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "MEC 1101",
+      "title": "Engineering Drawing",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MEC 1201",
+      "title": "Mechanics I: Statics",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MAT 1275"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MEC 2101",
+      "title": "Mechanics II: Dynamics",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MEC 1201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MEC 2201",
+      "title": "Strength of Materials",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MEC 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MEC 3101",
+      "title": "Thermodynamics",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "PHYS 1101",
+          "MAT 1475"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MEC 3201",
+      "title": "Fluid Mechanics",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MEC 2201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "MEC 4101",
+      "title": "Senior Design Project",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "MEC 3101",
+          "MEC 3201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "NUR 1101",
+      "title": "Foundations of Nursing",
+      "credits": 6,
+      "prereqs": {
+        "all": [
+          "BIO 1101",
+          "CHEM 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": "C",
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "NUR 1201",
+      "title": "Adult Health Nursing I",
+      "credits": 6,
+      "prereqs": {
+        "all": [
+          "NUR 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": "C",
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "NUR 2101",
+      "title": "Adult Health Nursing II",
+      "credits": 6,
+      "prereqs": {
+        "all": [
+          "NUR 1201"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": "C",
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "NUR 3101",
+      "title": "Community Health Nursing",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "NUR 2101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "NUR 4101",
+      "title": "Nursing Leadership and Management",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "NUR 3101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "PHYS 1101",
+      "title": "General Physics I",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "MAT 1275"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "PHYS 1201",
+      "title": "General Physics II",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "PHYS 1101",
+          "MAT 1475"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "PSY 1101",
+      "title": "Introduction to Psychology",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "PSY 2101",
+      "title": "Developmental Psychology",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "PSY 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "PSY 2201",
+      "title": "Social Psychology",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "PSY 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "PSY 3101",
+      "title": "Research Methods",
+      "credits": 4,
+      "prereqs": {
+        "all": [
+          "PSY 1101",
+          "MAT 1275"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "PSY 3201",
+      "title": "Abnormal Psychology",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "PSY 1101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "PSY 4101",
+      "title": "Senior Seminar",
+      "credits": 3,
+      "prereqs": {
+        "all": [
+          "PSY 3101"
+        ]
+      },
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Spring"
+      ]
+    },
+    {
+      "code": "SCI 1101",
+      "title": "Introduction to the Physical World",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "code": "SOC 1101",
+      "title": "Introduction to Sociology",
+      "credits": 3,
+      "prereqs": null,
+      "coreqs": [],
+      "minGrade": null,
+      "termsOffered": [
+        "Fall",
+        "Spring"
+      ]
+    }
+  ]
+}

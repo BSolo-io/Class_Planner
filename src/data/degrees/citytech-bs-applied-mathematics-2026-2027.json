@@ -1,0 +1,60 @@
+{
+  "id": "citytech-bs-applied-mathematics",
+  "school": "New York City College of Technology (CUNY)",
+  "degree": "Applied Mathematics (BS)",
+  "kind": "BS",
+  "catalogYear": "2026-2027 (placeholder)",
+  "source": "PLACEHOLDER DATA - generated for front-end development, not the real City Tech catalog. The real scraper (server/scraper/) is blocked by the catalog site's bot protection; replace this once that's resolved. See handoff.md.",
+  "isPlaceholder": true,
+  "totalCredits": 60,
+  "groups": [
+    {
+      "name": "English Composition",
+      "type": "allOf",
+      "courses": [
+        "ENG 1101",
+        "ENG 1121"
+      ]
+    },
+    {
+      "name": "Oral Communication",
+      "type": "allOf",
+      "courses": [
+        "COM 1330"
+      ]
+    },
+    {
+      "name": "Math and Quantitative Reasoning",
+      "type": "allOf",
+      "courses": [
+        "MAT 1275"
+      ]
+    },
+    {
+      "name": "Major Requirements",
+      "type": "allOf",
+      "courses": [
+        "MAT 1475",
+        "MAT 1575",
+        "MAT 2680",
+        "MAT 3050",
+        "MAT 3200"
+      ]
+    },
+    {
+      "name": "Electives",
+      "type": "credits",
+      "credits": 30,
+      "from": [
+        "HUM 1101",
+        "SOC 1101",
+        "ART 1101",
+        "HIS 1101",
+        "ECO 1101",
+        "PSY 1101",
+        "CIS 1101",
+        "BUS 1101"
+      ]
+    }
+  ]
+}

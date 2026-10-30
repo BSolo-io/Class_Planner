@@ -1,0 +1,3423 @@
+{
+ "AC-AAS": {
+  "code": "AC-AAS",
+  "name": "Accounting",
+  "longName": "Accounting AAS",
+  "degree": "AAS - Associate in Applied Science",
+  "degreeType": "AAS",
+  "cip": "52.0302",
+  "departments": [
+   "BUS-NYT"
+  ],
+  "type": "Major",
+  "level": "Undergraduate",
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/AC-AAS",
+  "detailed": true,
+  "effectiveStartDate": "2026-07-01",
+  "about": "Accounting - AAS - Associate in Applied Science\nDownload as PDF\nBusinessUndergraduateAAS - Associate in Applied Science\nGeneral\nRequirements\nDegree Maps\nHEGIS Code\n5002.00\nNYSED Program Code\n01338 - AC-AAS\nCIP Code\n52.0302\nProgram Description\n\nAn associate degree in Accounting is a two-year program. This degree provides foundational knowledge in accounting principles, practices, and software. It's designed for students who want to pursue careers in accounting or related fields but don't want to commit to a full four-year degree initially. The curriculum includes both theoretical coursework and practical skills.\n\nIn the accounting associate degree, the following key topics are taught:\n\nFinancial Accounting: Understanding how to prepare financial statements like balance sheets, income statements, and cash flow statements.\n\nManagerial Accounting: Using accounting data for internal decision-making, budgeting, and cost management.\n\nTaxation: Basics of individual and corporate taxation, including how to prepare tax returns and understand tax laws.\n\nAccounting Software: Familiarity with accounting software like QuickBooks, Excel, and other tools commonly used in the field.\n\nBusiness Math: The application of mathematical principles to solve accounting problems.\n\nAuditing: Basics of auditing processes and how to examine financial statements to ensure accuracy and compliance with regulations.\n\nThe Accounting program equips students with accounting skills that will make them immediately employable upon graduation with the associate degree.\n\nAccounting graduates are employed in all facets of industry:\n\nBookkeeper\n\nAccounting Assistant\n\nTax Preparer\n\nPayroll Clerk\n\nAccounts Payable/Receivable Clerk\n\nCity Tech graduates are employed in non profits and corporate organizations such as hospitals, service organizations, and governmental agencies. Some of these employers include Long Island College Hospital, the Brooklyn Hospital, Brookdale Hospital, Downstate Medical Center, NYU Medical Center, the New York City Department of Finance, the Internal Revenue Service, H & R Block, the New York State Department of Taxation and Finance, the New York City Department of Housing, Astoria Federal Savings Bank, TD Bank, JPMorgan Chase, HSBC Bank, Wachovia Bank, Ernst & Young, Con Edison, and National Grid.\n\nMany students who complete this degree continue on to earn a bachelor's degree in Accounting or Finance. This can open up opportunities for more advanced positions, like Certified Public Accountant (CPA) or financial analyst.\n\nLearning Outcomes\n\nThe Accounting program at City Tech will help students:\n\nTo acquire effective business communication skills, via group reports.\n\nTo understand the components of financial statements.\n\nTo be proficient in the use of computer spreadsheets and integrated accounting systems.\n\nTo understand how management uses information from the accounting system to operate business enterprises.\n\nTo acquire knowledge of the accounting cycle.\n\nProgression and Graduation Requirements\n\nAs listed in the course description of ACC 1101, a grade of C or higher is required to progress into subsequent accounting courses.\n\nArticulation Agreements\n\nGraduates are able to transfer to the accounting program at St. Francis through an existing articulation agreement. Please refer to the college website to see the full text of the agreement. Students should consult City Tech’s Career and Transfer Office, the Namm Building, room N105 for additional information\n\nDistance Learning Information\n\nThe AAS in Accounting has been approved by NYSED and MSCHE to be offered as a fully online program.\n\nThis degree program does not accept international students needing an F-1 visa, because we cannot guarantee that students will be able satisfy the Department of Homeland Security requirement that students maintain their full-time status and do not take more than 3 credits online each semester (dhs.gov). A significant component of this program is offered online.\n\nBefore applying, an international applicant who wishes to study at City Tech under an F-1 visa should email Vanessa Villaneuva, VVillaneuva@citytech.cuny.edu. \n\nAdvisement Information\n\nFor information about faculty advisors, their schedule, and contact information, please consult the Business Department website and our list of faculty advisors.\n\nYou can reach any member of the Business Department via email. Email addresses are formed using the first letter of the first name and the last name as shown in this example: For Prof. Allen Wolf, you would use AWolf@citytech.cuny.edu\n\nFor more information regarding advisement, financial aid, liberal arts, the Business Minor, etc., please consult our student resources page.\n\nExplore the Business Department on the City Tech website.\n\n Note: Intermediate Accounting I and II (ACC 2301 and ACC 2401) are required courses for the AAS in Accounting. However, these courses will not meet financial accounting and reporting requirements for the 150 semester hour education requirement for CPA licensure in New York State.",
+  "requirements": [
+   {
+    "name": "General Education Required and Flexible Common Core",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "name": "Required Common Core",
+      "condition": "allOf",
+      "rules": [
+       {
+        "name": "English Composition",
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "ivBZAeiOtdPN3jjTOmfk"
+        ]
+       },
+       {
+        "name": "Math and Quantitative Reasoning",
+        "condition": "completedAllOf",
+        "courses": [
+         "0399021"
+        ],
+        "notes": "or higher calculus-track mathematics course"
+       },
+       {
+        "name": "Life and Physical Sciences",
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "8P4cvEFPhAdqmbszQhpt"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Flexible Common Core",
+      "condition": "allOf",
+      "rules": [
+       {
+        "condition": "completedAllOf",
+        "courses": [
+         "0383531",
+         "0409011"
+        ],
+        "notes": "Specific courses listed indicate double duty courses, i.e., program degree requirements that also meet general education requirements. These courses both count towards Flexible Core Individual and Society.",
+        "extra": {
+         "description": "<p>Bachelor's degrees and AA and AS degrees require six flexible common core courses: at least one course in each of the five flexible core areas and an additional sixth course in one of them. AAS degrees may require fewer overall flexible core credits. Students can complete no more than two courses from any one area. </p>"
+        }
+       },
+       {
+        "condition": "completedAtLeastXOf",
+        "count": 2,
+        "courseSets": [
+         "tJRd80RFwDjrkI2JGNBQ",
+         "UYiO4CtrSbBs0ZhbUnPI",
+         "u4N54nvQNOppDMTpoFgr",
+         "WQNxggwvCK6XwdDOrj5x"
+        ],
+        "notes": "Some courses that are required for the major also meet general education requirements. Choosing to take advantage of double duty can speed up progress toward graduation and increase elective credits. In DegreeWorks, a double duty course displays and fulfills both requirements, but the credits count only once; the elective area will adjust automatically. Specific options for double duty courses may be listed here or noted in the degree map below."
+       }
+      ]
+     },
+     {
+      "name": "Writing Intensive",
+      "condition": "allOf",
+      "notes": "Students at New York City College of Technology must complete two courses designated writing intensive (WI) for the associate level, one from general education requirements and one from the major.\nTransfer students and those who have earned a prior degree may have part or all of this requirement waived; please consult the Degree Requirements page for additional information."
+     }
+    ]
+   },
+   {
+    "name": "Major Requirements",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "condition": "completedAllOf",
+      "courses": [
+       "0370251",
+       "0370271",
+       "0370281",
+       "0370291",
+       "0370301",
+       "0370321",
+       "0370331",
+       "0374771",
+       "1270111",
+       "1248901",
+       "0374811",
+       "0409011",
+       "0378811",
+       "0383531",
+       "0399021"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Overall Requirements",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "condition": "freeformText",
+      "value": "Complete at least 20 credits of liberal arts and sciences",
+      "extra": {
+       "credits": 20
+      }
+     },
+     {
+      "condition": "freeformText",
+      "value": "Complete a minimum of 30 credits in residence at New York City College of Technology; at least 15 of them in the major department"
+     },
+     {
+      "condition": "minimumCredits",
+      "valueType": "none",
+      "extra": {
+       "credits": 60
+      }
+     }
+    ]
+   }
+  ],
+  "degreeMaps": [
+   {
+    "name": "Accounting",
+    "semesters": [
+     {
+      "name": "Semester 1",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0387441"
+         },
+         {
+          "type": "courses",
+          "id": "1484311"
+         },
+         {
+          "type": "courses",
+          "id": "1507281"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399021"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0370251"
+         }
+        ],
+        "minGrade": "C"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0374771"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 2",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0370271"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1270111"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0383531"
+         }
+        ],
+        "text": "fulfills Individual & Society requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0409011"
+         }
+        ],
+        "text": "fulfills Individual & Society requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "8P4cvEFPhAdqmbszQhpt"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 3",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0370281"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0370291"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0370301"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378811"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "u4N54nvQNOppDMTpoFgr"
+         },
+         {
+          "type": "courseSets",
+          "id": "WQNxggwvCK6XwdDOrj5x"
+         },
+         {
+          "type": "courseSets",
+          "id": "UYiO4CtrSbBs0ZhbUnPI"
+         },
+         {
+          "type": "courseSets",
+          "id": "tJRd80RFwDjrkI2JGNBQ"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 4",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0370321"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0370331"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0374811"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1248901"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "u4N54nvQNOppDMTpoFgr"
+         },
+         {
+          "type": "courseSets",
+          "id": "WQNxggwvCK6XwdDOrj5x"
+         },
+         {
+          "type": "courseSets",
+          "id": "UYiO4CtrSbBs0ZhbUnPI"
+         },
+         {
+          "type": "courseSets",
+          "id": "tJRd80RFwDjrkI2JGNBQ"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "ACP-BS": {
+  "code": "ACP-BS",
+  "name": "Applied Computational Physics",
+  "longName": "Applied Computational Phys BS",
+  "degree": "BS - Bachelor of Science",
+  "degreeType": "BS",
+  "cip": "14.1201",
+  "departments": [
+   "PHYS-NYT"
+  ],
+  "type": "Major",
+  "level": "Undergraduate",
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/ACP-BS",
+  "detailed": true,
+  "effectiveStartDate": "2026-07-01",
+  "about": "Applied Computational Physics - BS - Bachelor of Science\nDownload as PDF\nPhysicsUndergraduateBS - Bachelor of Science\nGeneral\nRequirements\nDegree Maps\nHEGIS Code\n1902.00\nNYSED Program Code\n38718 - ACP-BS\nCIP Code\n14.1201\nProgram Description\n\nThe Bachelor of Science in Applied Computational Physics is designed to expose students to cutting-edge computational skills in high demand on the job market while providing all the foundational knowledge of a traditional physics curriculum, necessary for more research-focused careers, in academia or in the industry. With its unique blend of mathematics, data science, computer science, and physics, the curriculum offers a broad, balanced, and flexible education.\n\nThrough our applied physics focus, students learn about the most complex laws of nature while developing the computational skills to explore these by themselves and pioneer their own smart solutions to the emerging problems of the world.\n\nThrough project-based learning and tech internships, our students acquire hands-on experience to prepare for their future career in the industry. Equipped with a solid platform in physics, supercomputing, and mathematics, and trained in complex problem-solving and teamwork, our graduates are ideally positioned to fulfill the growing need for highly-qualified professionals in a wide variety of leading and emerging fields. This includes nanotechnology manufacturing, aerospace, financial modeling, data science, industrial research & development, and environmental sciences among others. Our recent graduates have been offered positions at GE Aerospace, Jet Blue, and more.\n\nOur program is designed as a stepping stone towards graduate school in physics, engineering, and astronomy for interested students. Our foundational classes help students build a strong background in modern physics, while our practical classes and labs offer a rigorous training in scientific inquiry, creative thinking, and leading-edge research tools used throughout STEM fields such as Python programming, supercomputing, and machine learning. Our faculty members conduct high impact research in fields such as astrophysics and quantum physics, giving our students the opportunity to join research labs where they get paid, hands-on experience on real research projects, often in collaboration with PhD and Master students.\n\nPrevious students have conducted projects on galaxy evolution, cosmic hydrodynamics, and quantum telecommunication.\n\nOur graduates have been accepted into selective PhD programs in physics, applied science, and astronomy at institutions such as Harvard, Rutgers University, Rochester Institute of Technology, New Jersey Institute of Technology, and the CUNY Graduate Center, among others.\n\nLearning Outcomes\n\nThe program’s curriculum is designed for students to achieve the following learning outcomes:\n\nThe ability to clearly communicate complex scientific ideas both verbally and in written form\n\nAn appreciation of how the scientific method is built upon testable hypotheses and experimental evidence\n\nA concrete foundation in basic physics, including mechanics, electromagnetism, quantum mechanics, and thermodynamics\n\nThe ability to develop a set of mathematical, problem-solving, and computer programming skills\n\nThe ability to model and simulate a large number of different types of physical systems and formulate predictions using semi-analytical and computational techniques and data analysis\n\nAn awareness of the underlying assumptions and limitations of various approximation schemes and certain computational algorithms\n\nThe ability to identify and apply research ethics and unbiased assessment in gathering and reporting scientific data and in the analyses of results of modeling and simulations\n\nAn awareness of the ethical, societal, legal, and other personal aspects of being a professional\n\nAdvisement Information\n\nCurious about the bachelor in Applied Computational Physics? Please reach out to the program coordinator Andrea Ferroglia, aferroglia@citytech.cuny.edu. We can set up an appointment either in person or online to answer all of your questions.",
+  "requirements": [
+   {
+    "name": "Admission Requirements",
+    "type": "Prerequisite",
+    "rules": [
+     {
+      "condition": "freeformText",
+      "extra": {
+       "description": "<p>Students applying for admission must meet the college standards for admission into a baccalaureate program. High school coursework in physics will be helpful but is not required. Students who do not have the mathematics background required to enroll in MAT 1475 (Calculus I) but who meet other admission requirements can use the program elective credits to complete the pre-requisite courses.</p><p>Students transferring to the Applied Computational Physics program must have:</p><ul><li><p>A minimum cumulative GPA of 2.5 or higher</p></li><li><p>At least one semester of college-level English composition</p></li><li><p>At least one semester of calculus (i.e. a course equivalent to MAT 1475)</p></li></ul><p>Transfer students lacking any of these criteria must seek the approval of the Program Director. College coursework in physics will be useful for applicants but is not required for admission.</p>"
+      }
+     }
+    ]
+   },
+   {
+    "name": "General Education",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "name": "Required Common Core",
+      "condition": "allOf",
+      "extra": {
+       "description": "<p>Some courses that are required for the major also meet general education requirements. Choosing to take advantage of double duty can speed up progress toward graduation and increase elective credits. In DegreeWorks, a double duty course displays and fulfills both requirements, but the credits count only once; the elective area will adjust automatically. Specific options for double duty courses may be listed here or noted in the degree map below.</p>"
+      },
+      "rules": [
+       {
+        "name": "English Composition  ",
+        "condition": "completedAtLeastXOf",
+        "count": 2,
+        "courseSets": [
+         "ivBZAeiOtdPN3jjTOmfk"
+        ],
+        "extra": {
+         "credits": 6
+        }
+       },
+       {
+        "name": "Mathematical and Quantitative Reasoning",
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "0GNLfuaS8fMkFUkKlClO"
+        ],
+        "notes": "Selecting a calculus-track math course recommended\nThe calculus math series is course or course , course , course , course , and course , with each course a prerequisite for the next.",
+        "extra": {
+         "credits": 3
+        }
+       },
+       {
+        "name": "Life and Physical Sciences",
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "8P4cvEFPhAdqmbszQhpt"
+        ],
+        "extra": {
+         "credits": 3
+        }
+       }
+      ]
+     },
+     {
+      "name": "Flexible Common Core",
+      "condition": "completedAtLeastXOf",
+      "count": 6,
+      "courseSets": [
+       "u4N54nvQNOppDMTpoFgr",
+       "eNfkr3WyUi8UzHEcH6We",
+       "WQNxggwvCK6XwdDOrj5x",
+       "UYiO4CtrSbBs0ZhbUnPI",
+       "tJRd80RFwDjrkI2JGNBQ"
+      ],
+      "notes": "Selecting calculus-track math in Scientific World courses recommended\nCalculus-track math: the series is course or course , course , course , course , and course , with each course a prerequisite for the next.",
+      "extra": {
+       "description": "<p>Bachelor's degrees and AA and AS degrees require six flexible common core courses: at least one course in each of the five flexible core areas and an additional sixth course in one of them. Students can complete no more than two courses from any one area.</p>"
+      }
+     },
+     {
+      "name": "College Option",
+      "condition": "allOf",
+      "notes": "In meeting general education requirements overall, students must take at least one advanced liberal arts course or two sequential courses in a world language. An advanced course is at the 2000 level or higher and has a prerequisite in the same or a closely related discipline. Examples of courses with prerequisites in closely related disciplines are: ECON 1101 and SOC 3301; PSY 1101 and SOC 2403. Transfer students with more than 30 earned credits or a prior degree have modified college option requirements, as noted on the Transfer Credit page.",
+      "extra": {
+       "description": "<p>All baccalaureate students starting at City Tech or transferring in with 30 or fewer credits, in addition to the common and flexible core courses, will also complete the following 12 credits: one course in speech/oral communication; one interdisciplinary course; and two additional liberal arts courses or, in BTech programs, additional liberal arts credits to reach a minimum total of&nbsp;42 credits in general education.</p>"
+      },
+      "rules": [
+       {
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "2xGal9MG37yTXG7xZFgZ"
+        ]
+       },
+       {
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "XvFluP8h87G9CMOKYNKO"
+        ]
+       },
+       {
+        "condition": "completedAtLeastXOf",
+        "count": 2,
+        "courseSets": [
+         "dDLWWvxneFyCxilhpz1X",
+         "qgm0snPka3FbHiXbrPiA"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Writing Intensive",
+      "condition": "freeformText",
+      "extra": {
+       "description": "<p>Students at New York City College of Technology must complete two courses designated writing intensive (WI) for the associate level, one from general education requirements and one from the major; and two additional courses designated WI for the baccalaureate level, one from general education and one from the major. Transfer students and those who have earned a prior degree may have part of this requirement waived. Please consult the <a href=\"/pages/iablzD8OVOVj7C1glOdx\" class=\"open_in_new_tab\" rel=\"noopener noreferrer nofollow\">Degree Requirements</a> page for additional information.</p>"
+      }
+     }
+    ]
+   },
+   {
+    "name": "Required Courses in the Major",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "condition": "completedAllOf",
+      "courses": [
+       "0378751",
+       "0378761",
+       "1470011",
+       "0404311",
+       "0404341",
+       "1373251",
+       "0404391",
+       "1229081",
+       "1362331",
+       "1362341",
+       "1362391",
+       "1362401",
+       "1362431",
+       "0399051",
+       "0399101",
+       "0399151",
+       "0399191"
+      ],
+      "extra": {
+       "credits": 4
+      }
+     },
+     {
+      "name": "Specialization",
+      "condition": "anyOf",
+      "extra": {
+       "description": "<p>Complete all courses in one specialization.</p>"
+      },
+      "rules": [
+       {
+        "name": "Astrophysics Specialization ",
+        "condition": "allOf",
+        "rules": [
+         {
+          "condition": "completedAllOf",
+          "courses": [
+           "1581551",
+           "1362381",
+           "1367201",
+           "1581561"
+          ]
+         },
+         {
+          "condition": "completedAtLeastXOf",
+          "count": 1,
+          "courseSets": [
+           "GKQzNidbE2115hiTkbLq"
+          ],
+          "notes": "Courses from other departmentsmay be selected with program coordinator permission."
+         }
+        ]
+       },
+       {
+        "name": "Computational Physics Specialization ",
+        "condition": "allOf",
+        "rules": [
+         {
+          "condition": "completedAllOf",
+          "courses": [
+           "1229091",
+           "1362381",
+           "1367201"
+          ]
+         },
+         {
+          "condition": "completedAtLeastXOf",
+          "count": 2,
+          "courseSets": [
+           "GKQzNidbE2115hiTkbLq"
+          ],
+          "notes": "Courses from other departments may be selected with program coordinator permission."
+         }
+        ]
+       },
+       {
+        "name": "Quantum Technology Specialization ",
+        "condition": "completedAllOf",
+        "courses": [
+         "0377581",
+         "0377611",
+         "1581531",
+         "1581541"
+        ],
+        "notes": "PHYS 2502 Principles of Experimental Design II\nPHYS 4500 Semiconductor Physics and Devices"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Elective Courses",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "condition": "completedAnyOf",
+      "courses": [
+       "0378821",
+       "0378871",
+       "0378921",
+       "0378891",
+       "0378951",
+       "1154271",
+       "1154281",
+       "0399211",
+       "0399241",
+       "0399301",
+       "0399171",
+       "0399241",
+       "0399301",
+       "0399171",
+       "0399251",
+       "1171881",
+       "1148081",
+       "1171891",
+       "0399281",
+       "1220041",
+       "0404411",
+       "1362361",
+       "1362371"
+      ],
+      "extra": {
+       "credits": 4,
+       "description": "<p>Take free electives as needed to equal 120 credits. A list of suggested courses is below. Consult a faculty advisor for help identifying the most suitable elective courses among or beyond these suggestions.</p>"
+      }
+     }
+    ]
+   },
+   {
+    "name": "Overall Requirements",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "condition": "freeformText",
+      "value": "Complete at least 60 credits of liberal arts and sciences ",
+      "extra": {
+       "credits": 120
+      }
+     },
+     {
+      "condition": "freeformText",
+      "value": "Complete a minimum of 30 credits in residence at New York City College of Technology, at least 15 of which must be from among those listed as required courses in the major"
+     },
+     {
+      "condition": "minimumCredits",
+      "valueType": "none",
+      "extra": {
+       "credits": 120
+      }
+     }
+    ]
+   }
+  ],
+  "degreeMaps": [
+   {
+    "name": "Applied Computational Physics",
+    "semesters": [
+     {
+      "name": "Semester 1",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0387441"
+         },
+         {
+          "type": "courses",
+          "id": "1484311"
+         },
+         {
+          "type": "courses",
+          "id": "1507281"
+         }
+        ],
+        "text": "fulfills English Composition requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378751"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399051"
+         }
+        ],
+        "minGrade": "C",
+        "area": "major",
+        "text": "fulfills Mathematical and Quantitative Reasoning requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "u4N54nvQNOppDMTpoFgr"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "eNfkr3WyUi8UzHEcH6We"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 2",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0387461"
+         }
+        ],
+        "minGrade": "C",
+        "text": "fulfills English Composition requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378761"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399101"
+         }
+        ],
+        "text": "fulfills Scientific World requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0404311"
+         }
+        ],
+        "text": "fulfills Life and Physical Sciences requirement"
+       }
+      ]
+     },
+     {
+      "name": "Semester 3",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0409011"
+         }
+        ],
+        "text": "fulfills Speech/Oral Communication requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399141"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0404341"
+         }
+        ],
+        "text": "fulfills Scientific World requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "tJRd80RFwDjrkI2JGNBQ"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 4",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378781"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399151"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "UYiO4CtrSbBs0ZhbUnPI"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "6prkulTVodh2nnzrcFcx"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         },
+         {
+          "type": "courseSets",
+          "id": "qgm0snPka3FbHiXbrPiA"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 5",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399191"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0404371"
+         },
+         {
+          "type": "courses",
+          "id": "1373251"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1229081"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         },
+         {
+          "type": "courseSets",
+          "id": "qgm0snPka3FbHiXbrPiA"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 6",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362331"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362341"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 7",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1229091"
+         },
+         {
+          "type": "courses",
+          "id": "1362351"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362381"
+         },
+         {
+          "type": "courses",
+          "id": "1367201"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "XvFluP8h87G9CMOKYNKO"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective "
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective "
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 8",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362391"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362401"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362431"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 9",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0387441"
+         },
+         {
+          "type": "courses",
+          "id": "1484311"
+         },
+         {
+          "type": "courses",
+          "id": "1507281"
+         }
+        ],
+        "text": "fulfills English Composition requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378751"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399051"
+         }
+        ],
+        "minGrade": "C",
+        "area": "major",
+        "text": "fulfills Mathematical and Quantitative Reasoning requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "u4N54nvQNOppDMTpoFgr"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "eNfkr3WyUi8UzHEcH6We"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 10",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0387461"
+         }
+        ],
+        "minGrade": "C",
+        "text": "fulfills English Composition requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378761"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399101"
+         }
+        ],
+        "text": "fulfills Scientific World requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0404311"
+         }
+        ],
+        "text": "fulfills Life and Physical Sciences requirement"
+       }
+      ]
+     },
+     {
+      "name": "Semester 11",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0409011"
+         }
+        ],
+        "text": "fulfills Speech/Oral Communication requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399141"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0404341"
+         }
+        ],
+        "text": "fulfills Scientific World requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "tJRd80RFwDjrkI2JGNBQ"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 12",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378781"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399151"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "UYiO4CtrSbBs0ZhbUnPI"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "6prkulTVodh2nnzrcFcx"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         },
+         {
+          "type": "courseSets",
+          "id": "qgm0snPka3FbHiXbrPiA"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 13",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399191"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0404371"
+         },
+         {
+          "type": "courses",
+          "id": "1373251"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1229081"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         },
+         {
+          "type": "courseSets",
+          "id": "qgm0snPka3FbHiXbrPiA"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 14",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362331"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362341"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 15",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1229091"
+         },
+         {
+          "type": "courses",
+          "id": "1362351"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362381"
+         },
+         {
+          "type": "courses",
+          "id": "1367201"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "XvFluP8h87G9CMOKYNKO"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective "
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective "
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 16",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362391"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362401"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362431"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Applied Computational Physics",
+    "semesters": [
+     {
+      "name": "Semester 1",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0387441"
+         },
+         {
+          "type": "courses",
+          "id": "1484311"
+         },
+         {
+          "type": "courses",
+          "id": "1507281"
+         }
+        ],
+        "text": "fulfills English Composition requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378751"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399051"
+         }
+        ],
+        "minGrade": "C",
+        "area": "major",
+        "text": "fulfills Mathematical and Quantitative Reasoning requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "u4N54nvQNOppDMTpoFgr"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "eNfkr3WyUi8UzHEcH6We"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 2",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0387461"
+         }
+        ],
+        "minGrade": "C",
+        "text": "fulfills English Composition requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378761"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399101"
+         }
+        ],
+        "text": "fulfills Scientific World requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0404311"
+         }
+        ],
+        "text": "fulfills Life and Physical Sciences requirement"
+       }
+      ]
+     },
+     {
+      "name": "Semester 3",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0409011"
+         }
+        ],
+        "text": "fulfills Speech/Oral Communication requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399141"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0404341"
+         }
+        ],
+        "text": "fulfills Scientific World requirement"
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "tJRd80RFwDjrkI2JGNBQ"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 4",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0378781"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399151"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "UYiO4CtrSbBs0ZhbUnPI"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "6prkulTVodh2nnzrcFcx"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         },
+         {
+          "type": "courseSets",
+          "id": "qgm0snPka3FbHiXbrPiA"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 5",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399191"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0404371"
+         },
+         {
+          "type": "courses",
+          "id": "1373251"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1229081"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         },
+         {
+          "type": "courseSets",
+          "id": "qgm0snPka3FbHiXbrPiA"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 6",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362331"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362341"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 7",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1229091"
+         },
+         {
+          "type": "courses",
+          "id": "1362351"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362381"
+         },
+         {
+          "type": "courses",
+          "id": "1367201"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "XvFluP8h87G9CMOKYNKO"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective "
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective "
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 8",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362391"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362401"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1362431"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "AD-AAS": {
+  "code": "AD-AAS",
+  "name": "AD-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/AD-AAS",
+  "detailed": false
+ },
+ "AHVC-MIN": {
+  "code": "AHVC-MIN",
+  "name": "AHVC-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/AHVC-MIN",
+  "detailed": false
+ },
+ "ALCS-MIN": {
+  "code": "ALCS-MIN",
+  "name": "ALCS-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/ALCS-MIN",
+  "detailed": false
+ },
+ "APM-BS": {
+  "code": "APM-BS",
+  "name": "Applied Mathematics",
+  "longName": "Applied Mathematics BS",
+  "degree": "BS - Bachelor of Science",
+  "degreeType": "BS",
+  "cip": "27.0301",
+  "departments": [
+   "MATH-NYT"
+  ],
+  "type": "Major",
+  "level": "Undergraduate",
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/APM-BS",
+  "detailed": true,
+  "effectiveStartDate": "2026-07-01",
+  "about": "Applied Mathematics - BS - Bachelor of Science\nDownload as PDF\nMathematicsUndergraduateBS - Bachelor of Science\nGeneral\nRequirements\nDegree Maps\nHEGIS Code\n1703.00\nNYSED Program Code\n28185 - APM-BS\nCIP Code\n27.0301\nProgram Description\n\nThe Bachelor of Science degree in Applied Mathematics is a practical degree for those seeking employment upon graduation or a graduate degree. Our program consists of a mathematics core, a general education core, free electives, and two semesters of internships. You must be eligible to take Calculus I MAT 1475 (or higher) to be admitted to our four-year Bachelor of Science degree program.\n\nWe live in an information age, and data is a resource. Our majors develop tools to convert unprocessed data into valuable information. Jobs such as data analysis, data engineering, and data visualization all rely on processing information.\n\nYou may customize this major to reach your career goals with free electives. For examples of semester-by-semester plans, please see the different degree maps. If mathematics courses are used to satisfy General Education, then you will have more than the minimum of 17 credits of free electives. These electives are for you to develop and explore areas of interest.\n\nThe value of mathematics is widely recognized, and our graduates are ready for many interesting career paths. Our alumni accomplishments are impressive. Please see http://www.citytech.cuny.edu/mathematics/student-success.aspx.\n\nLearning Outcomes\n\nCommunication: Communication skills include the ability to write and speak clearly, and actively read and listen. Applied math majors can present information and respond to questions clearly and persuasively, using language appropriate for the target audience. \n\nCollaboration: Applied math majors can work well with others. They learn about different roles in organizations, and where to turn for help. They understand their responsibilities, and develop leadership skills.\n\nCreativity: Mathematics models are representations. Applied Math majors can make connections, select and refine mathematical models. They can balance the need for accuracy and for quick approximations.  Applied Math majors create useful models of real-world problems.\n\nCritical Thinking: Applied Math majors can solve problems using mathematical analysis and computational tools.  They analyze and critique models and data, identify arguments and assumptions and evaluate supporting evidence.\n\nAdmission Requirements\n\nStudents applying for admission must meet the college standards for admission into a baccalaureate program and must be eligible to enroll in MAT 1475. Prospective transfer students should consult with the Mathematics Department at the earliest possible point to be certain that they gain maximum transfer credit and that they enter the program with the requisite background. Current City Tech students seeking to enter the program must secure the approval of the Mathematics Department to file a change of curriculum request with the Office of the Registrar.\n\nStudents should be aware that the program requires a high level of math proficiency and that those unprepared for the rigorous coursework may be obliged to complete prerequisites before beginning their upper-level coursework in applied mathematics. This may add to the credits required for graduation.\n\nAdvisement Information\n\nFor questions, please email the Applied Mathematics Coordinator Professor Singh: ssingh@citytech.cuny.edu.\n\nExplore the Department of Mathematics on the City Tech website.",
+  "requirements": [
+   {
+    "name": "General Education",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "name": "Require Common Core",
+      "condition": "allOf",
+      "extra": {
+       "description": "<p>Some courses that are required for the major also meet general education requirements. Choosing to take advantage of double duty can speed up progress toward graduation and increase elective credits. In DegreeWorks, a double duty course displays and fulfills both requirements, but the credits count only once; the elective area will adjust automatically. Specific options for double duty courses may be listed here or noted in the degree map below.</p>"
+      },
+      "rules": [
+       {
+        "name": "English Composition",
+        "condition": "completedAtLeastXOf",
+        "count": 2,
+        "courseSets": [
+         "ivBZAeiOtdPN3jjTOmfk"
+        ],
+        "extra": {
+         "credits": 6
+        }
+       },
+       {
+        "name": "Mathematical and Quantitative Reasoning",
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "0GNLfuaS8fMkFUkKlClO"
+        ],
+        "notes": "course recommended",
+        "extra": {
+         "credits": 3
+        }
+       },
+       {
+        "name": "Life and Physical Sciences",
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "8P4cvEFPhAdqmbszQhpt"
+        ],
+        "extra": {
+         "credits": 3
+        }
+       }
+      ]
+     },
+     {
+      "name": "Flexible Common Core",
+      "condition": "completedAtLeastXOf",
+      "count": 6,
+      "courseSets": [
+       "u4N54nvQNOppDMTpoFgr",
+       "eNfkr3WyUi8UzHEcH6We",
+       "WQNxggwvCK6XwdDOrj5x",
+       "UYiO4CtrSbBs0ZhbUnPI",
+       "tJRd80RFwDjrkI2JGNBQ"
+      ],
+      "extra": {
+       "description": "<p>Bachelor's degrees and AA and AS degrees require six flexible common core courses: at least one course in each of the five flexible core areas and an additional sixth course in one of them. Students can complete no more than two courses from any one area.</p>"
+      }
+     },
+     {
+      "name": "College Option",
+      "condition": "allOf",
+      "notes": "In meeting general education requirements overall, students must take at least one advanced liberal arts course or two sequential courses in a world language. An advanced course is at the 2000 level or higher and has a prerequisite in the same or a closely related discipline. Examples of courses with prerequisites in closely related disciplines are: ECON 1101 and SOC 3301; PSY 1101 and SOC 2403. Transfer students with more than 30 earned credits or a prior degree have modified college option requirements, as noted on the Transfer Credit page.",
+      "extra": {
+       "description": "<p>All baccalaureate students starting at City Tech or transferring in with 30 or fewer credits, in addition to the common and flexible core courses, will also complete the following 12 credits: one course in speech/oral communication; one interdisciplinary course; and two additional liberal arts courses or, in BTech programs, additional liberal arts credits to reach a minimum total of&nbsp;42 credits in general education.</p>"
+      },
+      "rules": [
+       {
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "2xGal9MG37yTXG7xZFgZ"
+        ]
+       },
+       {
+        "condition": "completedAtLeastXOf",
+        "count": 1,
+        "courseSets": [
+         "XvFluP8h87G9CMOKYNKO"
+        ]
+       },
+       {
+        "condition": "completedAtLeastXOf",
+        "count": 2,
+        "courseSets": [
+         "dDLWWvxneFyCxilhpz1X",
+         "qgm0snPka3FbHiXbrPiA"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Writing Intensive",
+      "condition": "freeformText",
+      "extra": {
+       "description": "<p>Students at New York City College of Technology must complete two courses designated writing intensive (WI) for the associate level, one from general education requirements and one from the major; and two additional courses designated WI for the baccalaureate level, one from general education and one from the major. Transfer students and those who have earned a prior degree may have part of this requirement waived. Please consult the <a href=\"/pages/iablzD8OVOVj7C1glOdx\" class=\"open_in_new_tab\" rel=\"noopener noreferrer nofollow\">Degree Requirements</a> page for additional information.</p>"
+      }
+     }
+    ]
+   },
+   {
+    "name": "Required Courses in the Major",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "condition": "completedAllOf",
+      "courses": [
+       "0399051",
+       "0399101",
+       "1470011",
+       "0399121",
+       "0399141",
+       "0399151",
+       "0399171",
+       "0399191",
+       "0399211",
+       "1148081",
+       "0399241",
+       "0399251",
+       "1171881",
+       "1171891",
+       "1220041",
+       "1470021",
+       "0399301",
+       "0399311",
+       "0399321"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Free Elective Courses",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "condition": "freeformText",
+      "extra": {
+       "description": "<p>Take free electives as needed to equal 120 credits (at least 18 credits of electives are generally available).</p>"
+      }
+     }
+    ]
+   },
+   {
+    "name": "Degree Requirements - Bachelor of Science ",
+    "type": "Completion Requirement",
+    "rules": [
+     {
+      "condition": "freeformText",
+      "value": "Complete at least 60 credits of liberal arts and sciences ",
+      "extra": {
+       "credits": 120
+      }
+     },
+     {
+      "condition": "freeformText",
+      "value": "Complete a minimum of 30 credits in residence at New York City College of Technology, at least 15 of which must be from among those listed as required courses in the major"
+     },
+     {
+      "condition": "minimumCredits",
+      "valueType": "none",
+      "extra": {
+       "credits": 120
+      }
+     }
+    ]
+   }
+  ],
+  "degreeMaps": [
+   {
+    "name": "Applied Mathematics",
+    "semesters": [
+     {
+      "name": "Semester 1",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0387441"
+         },
+         {
+          "type": "courses",
+          "id": "1484311"
+         },
+         {
+          "type": "courses",
+          "id": "1507281"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399051"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1470011"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "u4N54nvQNOppDMTpoFgr"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "2xGal9MG37yTXG7xZFgZ"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 2",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0387461"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399101"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399121"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "8P4cvEFPhAdqmbszQhpt"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 3",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399151"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399211"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "tJRd80RFwDjrkI2JGNBQ"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "UYiO4CtrSbBs0ZhbUnPI"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "AQqwkGCPyVTr7bQkADlr"
+         }
+        ],
+        "text": "select a writing intensive course in a discipline other than mathematics"
+       }
+      ]
+     },
+     {
+      "name": "Semester 4",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399141"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399171"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399191"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "AQqwkGCPyVTr7bQkADlr"
+         }
+        ],
+        "text": "select a writing intensive course in a discipline other than mathematics"
+       }
+      ]
+     },
+     {
+      "name": "Semester 5",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1148081"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399241"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399251"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 6",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1171881"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1171891"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399301"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 7",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1470021"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399311"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "XvFluP8h87G9CMOKYNKO"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         },
+         {
+          "type": "courseSets",
+          "id": "qgm0snPka3FbHiXbrPiA"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Semester 8",
+      "slots": [
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "1220041"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courses",
+          "id": "0399321"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "courseSets",
+          "id": "dDLWWvxneFyCxilhpz1X"
+         },
+         {
+          "type": "courseSets",
+          "id": "qgm0snPka3FbHiXbrPiA"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       },
+       {
+        "options": [
+         {
+          "type": "generic",
+          "id": "Free Elective"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "AR-AAS": {
+  "code": "AR-AAS",
+  "name": "AR-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/AR-AAS",
+  "detailed": false
+ },
+ "ARB-BT": {
+  "code": "ARB-BT",
+  "name": "ARB-BT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/ARB-BT",
+  "detailed": false
+ },
+ "ARCH-BARCH": {
+  "code": "ARCH-BARCH",
+  "name": "ARCH-BARCH",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BARCH",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/ARCH-BARCH",
+  "detailed": false
+ },
+ "AST-MIN": {
+  "code": "AST-MIN",
+  "name": "AST-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/AST-MIN",
+  "detailed": false
+ },
+ "BF-AS": {
+  "code": "BF-AS",
+  "name": "BF-AS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/BF-AS",
+  "detailed": false
+ },
+ "BFB-BS": {
+  "code": "BFB-BS",
+  "name": "BFB-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/BFB-BS",
+  "detailed": false
+ },
+ "BIB-BS": {
+  "code": "BIB-BS",
+  "name": "BIB-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/BIB-BS",
+  "detailed": false
+ },
+ "BIOTECH-AS": {
+  "code": "BIOTECH-AS",
+  "name": "BIOTECH-AS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/BIOTECH-AS",
+  "detailed": false
+ },
+ "BUSN-MIN": {
+  "code": "BUSN-MIN",
+  "name": "BUSN-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/BUSN-MIN",
+  "detailed": false
+ },
+ "BVC-MIN": {
+  "code": "BVC-MIN",
+  "name": "BVC-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/BVC-MIN",
+  "detailed": false
+ },
+ "CEB-BT": {
+  "code": "CEB-BT",
+  "name": "CEB-BT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CEB-BT",
+  "detailed": false
+ },
+ "CHB-BS": {
+  "code": "CHB-BS",
+  "name": "CHB-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CHB-BS",
+  "detailed": false
+ },
+ "CHEM-MIN": {
+  "code": "CHEM-MIN",
+  "name": "CHEM-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CHEM-MIN",
+  "detailed": false
+ },
+ "CHS-AS": {
+  "code": "CHS-AS",
+  "name": "CHS-AS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CHS-AS",
+  "detailed": false
+ },
+ "CIB-BT": {
+  "code": "CIB-BT",
+  "name": "CIB-BT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CIB-BT",
+  "detailed": false
+ },
+ "CIS-AAS": {
+  "code": "CIS-AAS",
+  "name": "CIS-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CIS-AAS",
+  "detailed": false
+ },
+ "COMD-BFA": {
+  "code": "COMD-BFA",
+  "name": "COMD-BFA",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BFA",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/COMD-BFA",
+  "detailed": false
+ },
+ "COMM-MIN": {
+  "code": "COMM-MIN",
+  "name": "COMM-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/COMM-MIN",
+  "detailed": false
+ },
+ "CRWR-MIN": {
+  "code": "CRWR-MIN",
+  "name": "CRWR-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CRWR-MIN",
+  "detailed": false
+ },
+ "CSC-AS": {
+  "code": "CSC-AS",
+  "name": "CSC-AS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CSC-AS",
+  "detailed": false
+ },
+ "CSCI-MIN": {
+  "code": "CSCI-MIN",
+  "name": "CSCI-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CSCI-MIN",
+  "detailed": false
+ },
+ "CT-AAS": {
+  "code": "CT-AAS",
+  "name": "CT-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CT-AAS",
+  "detailed": false
+ },
+ "CTB-BT": {
+  "code": "CTB-BT",
+  "name": "CTB-BT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CTB-BT",
+  "detailed": false
+ },
+ "CTC-CERT": {
+  "code": "CTC-CERT",
+  "name": "CTC-CERT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "CERT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CTC-CERT",
+  "detailed": false
+ },
+ "CTTE-CERT": {
+  "code": "CTTE-CERT",
+  "name": "CTTE-CERT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "CERT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CTTE-CERT",
+  "detailed": false
+ },
+ "CTTEP-CERT": {
+  "code": "CTTEP-CERT",
+  "name": "CTTEP-CERT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "CERT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CTTEP-CERT",
+  "detailed": false
+ },
+ "CV-AAS": {
+  "code": "CV-AAS",
+  "name": "CV-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CV-AAS",
+  "detailed": false
+ },
+ "CYBER-BS": {
+  "code": "CYBER-BS",
+  "name": "CYBER-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/CYBER-BS",
+  "detailed": false
+ },
+ "DAB-BS": {
+  "code": "DAB-BS",
+  "name": "DAB-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/DAB-BS",
+  "detailed": false
+ },
+ "DD-AAS": {
+  "code": "DD-AAS",
+  "name": "DD-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/DD-AAS",
+  "detailed": false
+ },
+ "DH-AAS": {
+  "code": "DH-AAS",
+  "name": "DH-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/DH-AAS",
+  "detailed": false
+ },
+ "DL-AAS": {
+  "code": "DL-AAS",
+  "name": "DL-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/DL-AAS",
+  "detailed": false
+ },
+ "DSCI-BS": {
+  "code": "DSCI-BS",
+  "name": "DSCI-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/DSCI-BS",
+  "detailed": false
+ },
+ "EC-AAS": {
+  "code": "EC-AAS",
+  "name": "EC-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/EC-AAS",
+  "detailed": false
+ },
+ "ECON-MIN": {
+  "code": "ECON-MIN",
+  "name": "ECON-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/ECON-MIN",
+  "detailed": false
+ },
+ "EM-AAS": {
+  "code": "EM-AAS",
+  "name": "EM-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/EM-AAS",
+  "detailed": false
+ },
+ "ENVS-MIN": {
+  "code": "ENVS-MIN",
+  "name": "ENVS-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/ENVS-MIN",
+  "detailed": false
+ },
+ "ET-AAS": {
+  "code": "ET-AAS",
+  "name": "ET-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/ET-AAS",
+  "detailed": false
+ },
+ "ETB-BTECH": {
+  "code": "ETB-BTECH",
+  "name": "ETB-BTECH",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BTECH",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/ETB-BTECH",
+  "detailed": false
+ },
+ "FLC-MIN": {
+  "code": "FLC-MIN",
+  "name": "FLC-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/FLC-MIN",
+  "detailed": false
+ },
+ "FMGT-BTECH": {
+  "code": "FMGT-BTECH",
+  "name": "FMGT-BTECH",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BTECH",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/FMGT-BTECH",
+  "detailed": false
+ },
+ "GSS-MIN": {
+  "code": "GSS-MIN",
+  "name": "GSS-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/GSS-MIN",
+  "detailed": false
+ },
+ "HAB-BS": {
+  "code": "HAB-BS",
+  "name": "HAB-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HAB-BS",
+  "detailed": false
+ },
+ "HISS-MIN": {
+  "code": "HISS-MIN",
+  "name": "HISS-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HISS-MIN",
+  "detailed": false
+ },
+ "HIST-MIN": {
+  "code": "HIST-MIN",
+  "name": "HIST-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HIST-MIN",
+  "detailed": false
+ },
+ "HLTHCOM-BS": {
+  "code": "HLTHCOM-BS",
+  "name": "HLTHCOM-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HLTHCOM-BS",
+  "detailed": false
+ },
+ "HLTPMGT-BS": {
+  "code": "HLTPMGT-BS",
+  "name": "HLTPMGT-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HLTPMGT-BS",
+  "detailed": false
+ },
+ "HM-AAS": {
+  "code": "HM-AAS",
+  "name": "HM-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HM-AAS",
+  "detailed": false
+ },
+ "HMB-BT": {
+  "code": "HMB-BT",
+  "name": "HMB-BT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HMB-BT",
+  "detailed": false
+ },
+ "HS-AAS": {
+  "code": "HS-AAS",
+  "name": "HS-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HS-AAS",
+  "detailed": false
+ },
+ "HSB-BS": {
+  "code": "HSB-BS",
+  "name": "HSB-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HSB-BS",
+  "detailed": false
+ },
+ "HSC-AS": {
+  "code": "HSC-AS",
+  "name": "HSC-AS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/HSC-AS",
+  "detailed": false
+ },
+ "LAA-AA": {
+  "code": "LAA-AA",
+  "name": "LAA-AA",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AA",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/LAA-AA",
+  "detailed": false
+ },
+ "LAS-AS": {
+  "code": "LAS-AS",
+  "name": "LAS-AS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/LAS-AS",
+  "detailed": false
+ },
+ "LS-AAS": {
+  "code": "LS-AAS",
+  "name": "LS-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/LS-AAS",
+  "detailed": false
+ },
+ "LSB-BS": {
+  "code": "LSB-BS",
+  "name": "LSB-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/LSB-BS",
+  "detailed": false
+ },
+ "MEB-BT": {
+  "code": "MEB-BT",
+  "name": "MEB-BT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/MEB-BT",
+  "detailed": false
+ },
+ "MEDU-BS": {
+  "code": "MEDU-BS",
+  "name": "MEDU-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/MEDU-BS",
+  "detailed": false
+ },
+ "MM-AAS": {
+  "code": "MM-AAS",
+  "name": "MM-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/MM-AAS",
+  "detailed": false
+ },
+ "MT-AAS": {
+  "code": "MT-AAS",
+  "name": "MT-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/MT-AAS",
+  "detailed": false
+ },
+ "MTB-BT": {
+  "code": "MTB-BT",
+  "name": "MTB-BT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/MTB-BT",
+  "detailed": false
+ },
+ "NU-AAS": {
+  "code": "NU-AAS",
+  "name": "NU-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/NU-AAS",
+  "detailed": false
+ },
+ "NUB-BS": {
+  "code": "NUB-BS",
+  "name": "NUB-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/NUB-BS",
+  "detailed": false
+ },
+ "OD-AAS": {
+  "code": "OD-AAS",
+  "name": "OD-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/OD-AAS",
+  "detailed": false
+ },
+ "OEB-BSED": {
+  "code": "OEB-BSED",
+  "name": "OEB-BSED",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BSED",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/OEB-BSED",
+  "detailed": false
+ },
+ "PHYS-MIN": {
+  "code": "PHYS-MIN",
+  "name": "PHYS-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/PHYS-MIN",
+  "detailed": false
+ },
+ "PSYC-MIN": {
+  "code": "PSYC-MIN",
+  "name": "PSYC-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/PSYC-MIN",
+  "detailed": false
+ },
+ "PTW-BS": {
+  "code": "PTW-BS",
+  "name": "PTW-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/PTW-BS",
+  "detailed": false
+ },
+ "RSB-BS": {
+  "code": "RSB-BS",
+  "name": "RSB-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/RSB-BS",
+  "detailed": false
+ },
+ "RT-AAS": {
+  "code": "RT-AAS",
+  "name": "RT-AAS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "AAS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/RT-AAS",
+  "detailed": false
+ },
+ "SET-BS": {
+  "code": "SET-BS",
+  "name": "SET-BS",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BS",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/SET-BS",
+  "detailed": false
+ },
+ "SHHS-MIN": {
+  "code": "SHHS-MIN",
+  "name": "SHHS-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/SHHS-MIN",
+  "detailed": false
+ },
+ "SPLG-MIN": {
+  "code": "SPLG-MIN",
+  "name": "SPLG-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/SPLG-MIN",
+  "detailed": false
+ },
+ "STB-BT": {
+  "code": "STB-BT",
+  "name": "STB-BT",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BT",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/STB-BT",
+  "detailed": false
+ },
+ "TEB-BSED": {
+  "code": "TEB-BSED",
+  "name": "TEB-BSED",
+  "longName": null,
+  "degree": null,
+  "degreeType": "BSED",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/TEB-BSED",
+  "detailed": false
+ },
+ "THTR-MIN": {
+  "code": "THTR-MIN",
+  "name": "THTR-MIN",
+  "longName": null,
+  "degree": null,
+  "degreeType": "MIN",
+  "cip": null,
+  "departments": [],
+  "type": null,
+  "level": null,
+  "description": null,
+  "url": "https://citytech.catalog.cuny.edu/programs/THTR-MIN",
+  "detailed": false
+ }
+}

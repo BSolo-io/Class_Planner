@@ -1,0 +1,68 @@
+{
+  "id": "citytech-bs-computer-science",
+  "school": "New York City College of Technology (CUNY)",
+  "degree": "Computer Science (BS)",
+  "kind": "BS",
+  "catalogYear": "2026-2027 (placeholder)",
+  "source": "PLACEHOLDER DATA - generated for front-end development, not the real City Tech catalog. The real scraper (server/scraper/) is blocked by the catalog site's bot protection; replace this once that's resolved. See handoff.md.",
+  "isPlaceholder": true,
+  "totalCredits": 60,
+  "groups": [
+    {
+      "name": "English Composition",
+      "type": "allOf",
+      "courses": [
+        "ENG 1101",
+        "ENG 1121"
+      ]
+    },
+    {
+      "name": "Oral Communication",
+      "type": "allOf",
+      "courses": [
+        "COM 1330"
+      ]
+    },
+    {
+      "name": "Math and Quantitative Reasoning",
+      "type": "allOf",
+      "courses": [
+        "MAT 1275"
+      ]
+    },
+    {
+      "name": "Life and Physical Sciences",
+      "type": "allOf",
+      "courses": [
+        "SCI 1101"
+      ]
+    },
+    {
+      "name": "Major Requirements",
+      "type": "allOf",
+      "courses": [
+        "CST 1101",
+        "CSCI 1111",
+        "CSCI 2112",
+        "CSCI 2113",
+        "CSCI 3114",
+        "MAT 1475"
+      ]
+    },
+    {
+      "name": "Electives",
+      "type": "credits",
+      "credits": 22,
+      "from": [
+        "HUM 1101",
+        "SOC 1101",
+        "ART 1101",
+        "HIS 1101",
+        "ECO 1101",
+        "PSY 1101",
+        "CIS 1101",
+        "BUS 1101"
+      ]
+    }
+  ]
+}

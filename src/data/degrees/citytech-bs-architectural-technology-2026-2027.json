@@ -1,0 +1,67 @@
+{
+  "id": "citytech-bs-architectural-technology",
+  "school": "New York City College of Technology (CUNY)",
+  "degree": "Architectural Technology (BS)",
+  "kind": "BS",
+  "catalogYear": "2026-2027 (placeholder)",
+  "source": "PLACEHOLDER DATA - generated for front-end development, not the real City Tech catalog. The real scraper (server/scraper/) is blocked by the catalog site's bot protection; replace this once that's resolved. See handoff.md.",
+  "isPlaceholder": true,
+  "totalCredits": 60,
+  "groups": [
+    {
+      "name": "English Composition",
+      "type": "allOf",
+      "courses": [
+        "ENG 1101",
+        "ENG 1121"
+      ]
+    },
+    {
+      "name": "Oral Communication",
+      "type": "allOf",
+      "courses": [
+        "COM 1330"
+      ]
+    },
+    {
+      "name": "Math and Quantitative Reasoning",
+      "type": "allOf",
+      "courses": [
+        "MAT 1275"
+      ]
+    },
+    {
+      "name": "Life and Physical Sciences",
+      "type": "allOf",
+      "courses": [
+        "SCI 1101"
+      ]
+    },
+    {
+      "name": "Major Requirements",
+      "type": "allOf",
+      "courses": [
+        "ARCH 1101",
+        "ARCH 1201",
+        "ARCH 2101",
+        "ARCH 2201",
+        "ARCH 3101"
+      ]
+    },
+    {
+      "name": "Electives",
+      "type": "credits",
+      "credits": 28,
+      "from": [
+        "HUM 1101",
+        "SOC 1101",
+        "ART 1101",
+        "HIS 1101",
+        "ECO 1101",
+        "PSY 1101",
+        "CIS 1101",
+        "BUS 1101"
+      ]
+    }
+  ]
+}

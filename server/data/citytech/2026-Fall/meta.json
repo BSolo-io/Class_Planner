@@ -1,0 +1,29 @@
+{
+ "school": "New York City College of Technology (CUNY)",
+ "source": "https://citytech.catalog.cuny.edu",
+ "term": "2026-Fall",
+ "catalogId": null,
+ "builtAt": "2026-10-30T19:20:55+00:00",
+ "counts": {
+  "programs": 82,
+  "programsDetailed": 3,
+  "courses": 49,
+  "coursesWithPageDetails": 49,
+  "courseSets": 13
+ },
+ "detailedPrograms": [
+  "AC-AAS",
+  "ACP-BS",
+  "APM-BS"
+ ],
+ "warnings": [
+  "ACP-BS: 22 course id(s) not in the course list: ['1154271', '1154281', '0399211', '0399241', '0399301']",
+  "ACP-BS: course list(s) not captured: ['6prkulTVodh2nnzrcFcx']",
+  "APM-BS: 16 course id(s) not in the course list: ['0399121', '0399141', '0399171', '0399211', '1148081']",
+  "APM-BS: course list(s) not captured: ['AQqwkGCPyVTr7bQkADlr']"
+ ],
+ "notes": [
+  "prereqText is copied from each course page. prereqCodes lists every course code it mentions; it does not yet say which are AND / OR or co-requisites. Parse that in a later step.",
+  "Data belongs to City Tech. Re-scrape at most once per term."
+ ]
+}
