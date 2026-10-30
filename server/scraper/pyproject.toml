@@ -1,0 +1,16 @@
+[project]
+name = "citytech-catalog-scraper"
+version = "0.1.0"
+description = "Snapshots the City Tech public catalog into JSON for Class Planner"
+requires-python = ">=3.10"
+dependencies = ["playwright>=1.47"]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
